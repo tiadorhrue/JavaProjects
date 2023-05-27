@@ -14,6 +14,7 @@ public class task6Six {
         }else
         {
             System.out.println(primeNumber+" is not a prime number");
+
         }
 
 
